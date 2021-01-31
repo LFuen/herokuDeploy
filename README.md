@@ -13,15 +13,18 @@ Here we go!
 > * Heroku has some benefits when using certain libraries. In this case we're using PG and that automatically provisions a Postgres DB...score!
 > * In your terminal type in: ```heroku create```
 > * This is what it will look like after you execute:
+
 ![1](./images/1.png)
 
 **2:**
 * Now let's run ```git push heroku main``` (our initial push into Heroku)
+
 ![2](./images/2.png)
 
 **3:**
 * Now to provision Postgres: ```heroku addons:create heroku-postgresql:hobby-dev```
 (this now tells us the db has been created and it's empty. Awesome. I'm glad you're keeping up!)
+
 ![3](./images/3.png)
 
 **4:**
