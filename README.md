@@ -139,7 +139,7 @@ Here we go!
 > * Schemas, open that for:
 >> * public, open that for:
 >>> * **Tables**
-*Empty, let's fix that manually.*
+(*Empty, let's fix that manually.*)
 
 ![7](./images/db/7.png)
 
@@ -163,7 +163,7 @@ Here we go!
 ![10](./images/db/10.png)
 
 **11:**
-* From here, find the Data tab above table name, and you'll see your data inside from the seed file.
+* From here, find the **Data** tab above table name, and you'll see your data inside from the seed file.
 
 ![11](./images/db/11.png)
 
